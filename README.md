@@ -16,3 +16,11 @@ This project is a simple yet robust task management application built with React
 - Firebase Authentication for secure login
 - Ant Design for UI components
 - Vite for build tooling
+
+## Live Demo
+
+Experience the Task Management App in action:
+
+[Task Management App Live Demo](https://taskflowmanagement.netlify.app/)
+
+Feel free to create an account and test the functionality of the app!
